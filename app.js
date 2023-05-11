@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 const app = express();
 const propertyRoute = require("./routes/propertyRoute");
 
+//dddddd
 
 //middleware
 app.use(express.json());
